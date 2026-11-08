@@ -1,7 +1,21 @@
 # MummyAI — Maternal, Child Health & Development Companion
 
-> **A privacy-first, multilingual digital health-record companion with a tool-using AI assistant.**
->
+<p align="center">
+  <img
+    src="docs/assets/MummyAI Family Health Companion.png"
+    alt="MummyAI - Maternal, Child Health and Development Companion"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <strong>
+    A privacy-first, multilingual digital health-record
+    companion with a tool-using AI assistant.
+  </strong>
+</p>
+
+> 
 > **Project status:** Early-stage local prototype. It can run a tool-calling AI agent through Ollama and optionally retrieve explicitly synthetic sample records from MongoDB Atlas. It is not a medical device, clinical decision-support system, or production-ready health platform. Do not use it to make medical decisions or store real patient data.
 
 MummyAI is a proposed digital companion inspired by maternal and child health record books such as Sri Lanka's Child Health Development Record (CHDR). It aims to help families organize pregnancy and child-health information, understand approved educational resources, track appointments and developmental observations, and prepare for conversations with healthcare professionals.
