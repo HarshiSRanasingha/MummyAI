@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="docs/assets/MummyAI Family Health Companion.png"
+    src="docs/assets/MummyAI-Family-Health-Companion.png"
     alt="MummyAI - Maternal, Child Health and Development Companion"
     width="100%"
   />
