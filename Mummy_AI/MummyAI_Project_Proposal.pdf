@@ -1,0 +1,85 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 4095 >>
+stream
+BT
+/F1 22 Tf 50 790 Td (MummyAI Project Proposal) Tj
+/F2 11 Tf 50 760 Td (Maternal, Child Health & Development Companion) Tj
+/F2 10 Tf 50 738 Td (Project status: Early-stage prototype for education and organization; not a medical device.) Tj
+/F1 16 Tf 50 710 Td (Executive Summary) Tj
+/F2 11 Tf 50 690 Td (MummyAI is a privacy-first digital companion for maternal and child health. It supports) Tj
+/F2 11 Tf 50 675 Td (families with pregnancy planning, appointment tracking, developmental observations, and) Tj
+/F2 11 Tf 50 660 Td (simple health education without replacing clinical judgment.) Tj
+/F1 16 Tf 50 628 Td (Problem and Opportunity) Tj
+/F2 11 Tf 50 608 Td (? Families manage information across paper notes, mobile apps, and clinic communication.) Tj
+/F2 11 Tf 50 593 Td (? Pregnancy and childhood care require coordinated appointments, growth tracking, and) Tj
+/F2 11 Tf 50 578 Td (  immunization records.) Tj
+/F2 11 Tf 50 563 Td (? Language and literacy barriers make reliable health information harder to access.) Tj
+/F1 16 Tf 50 531 Td (Target Users) Tj
+/F2 11 Tf 50 511 Td (? Pregnant mothers and caregivers) Tj
+/F2 11 Tf 50 496 Td (? Parents tracking growth, immunization, and developmental milestones) Tj
+/F2 11 Tf 50 481 Td (? Midwives, clinicians, and specialists using consent-based summaries) Tj
+/F1 16 Tf 50 449 Td (Product Vision) Tj
+/F2 11 Tf 50 429 Td (The long-term vision is a single family-centered platform spanning pregnancy, birth, and) Tj
+/F2 11 Tf 50 414 Td (childhood. It combines structured records, multilingual access, safe AI assistance, and) Tj
+/F2 11 Tf 50 399 Td (approved educational content while preserving professional oversight.) Tj
+/F1 16 Tf 50 367 Td (Core Features) Tj
+/F2 11 Tf 50 347 Td (? Maternal health records, antenatal tracking, and follow-up planning) Tj
+/F2 11 Tf 50 332 Td (? Birth and newborn records, feeding support, and discharge information) Tj
+/F2 11 Tf 50 317 Td (? Child growth, immunization, appointments, and developmental notes) Tj
+/F2 11 Tf 50 302 Td (? Restricted AI assistant for education, clinic-question preparation, and synthetic records) Tj
+ET
+BT
+/F1 16 Tf 50 790 Td (System Architecture) Tj
+/F2 11 Tf 50 770 Td (Frontend: React + Vite client for families and future professional workflows.) Tj
+/F2 11 Tf 50 755 Td (Backend: Express API with validation, security headers, and rate limits.) Tj
+/F2 11 Tf 50 740 Td (AI Layer: Local Ollama tool-calling orchestration with a narrow allowlist of approved tools.) Tj
+/F2 11 Tf 50 725 Td (Data: Optional MongoDB Atlas for synthetic-only demo records with strict read-only filtering.) Tj
+/F1 16 Tf 50 693 Td (Safety and Governance) Tj
+/F2 11 Tf 50 673 Td (? The system is not a substitute for professional clinical care.) Tj
+/F2 11 Tf 50 658 Td (? AI must not diagnose, prescribe, or make treatment decisions autonomously.) Tj
+/F2 11 Tf 50 643 Td (? Real patient data is not used in the prototype; all data handling is synthetic by default.) Tj
+/F2 11 Tf 50 628 Td (? Authentication, caregiver authorization, and audit logging are required before real-world use.) Tj
+/F1 16 Tf 50 596 Td (Roadmap) Tj
+/F2 11 Tf 50 576 Td (Phase 0: Starter frontend, backend, README, and safety notes complete.) Tj
+/F2 11 Tf 50 561 Td (Phase 1: Profile forms, authentication, privacy controls, and record access design.) Tj
+/F2 11 Tf 50 546 Td (Phase 2: Trusted AI, schema validation, synthetic record tools, and approved knowledge retrieval.) Tj
+/F2 11 Tf 50 531 Td (Phase 3: Growth monitoring, reminders, immunization support, and professional review workflows.) Tj
+/F1 16 Tf 50 499 Td (Next Steps) Tj
+/F2 11 Tf 50 479 Td (1. Finalize UX flows for family and clinician use.) Tj
+/F2 11 Tf 50 464 Td (2. Implement secure authentication and caregiver authorization boundaries.) Tj
+/F2 11 Tf 50 449 Td (3. Add measurement validation and consent-controlled record access.) Tj
+/F2 11 Tf 50 434 Td (4. Establish approved knowledge sources and run safety/privacy reviews before pilot.) Tj
+/F2 10 Tf 50 70 Td (Prepared for the MummyAI project using project documentation and architecture notes.) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000326 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4543
+%%EOF
