@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "start:frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "test": "npm --prefix backend test"
+  },
+  "dependencies": {
+    "pdfkit": "^0.20.2"
+  }
+}
